@@ -78,8 +78,8 @@ def wra():
 
 
 def about():
-    messagebox.showinfo("About this application", "This application has been conceived and implemented by Mario Scarpa "
-                                                  "for the Field Service Desk."
+    messagebox.showinfo("About this application", "This application has been conceived and implemented by  "
+                                                  "for the Service Desk."
                                                   "\n\nIt has been last reviewed and updated on 25th April 2018")
 
 
